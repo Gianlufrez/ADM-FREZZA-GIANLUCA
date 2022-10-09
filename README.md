@@ -1,4 +1,5 @@
 # ADM-FREZZA-GIANLUCA
 my solution
-# nome del file
+# Files names and relative content
+- this file contains submissions of HackerRank
 descrizione
